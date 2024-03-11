@@ -1,5 +1,5 @@
 import React from 'react'
-import Navbar from '../public/Navbar'
+import Navbar from '../components/public/Navbar'
 import { Outlet } from 'react-router-dom'
 
 const WebLayout = () => {
